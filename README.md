@@ -154,5 +154,6 @@ SDK abierto para desarrolladores
 Integración con otros museos LATAM
 Token de gobernanza para DAOs culturales
 Bridge con otras blockchains (interoperabilidad)
+
 Conclusión
 Permamuseum implementa una arquitectura técnica pragmática que balancea innovación blockchain con usabilidad para el sector cultural. La combinación de Stellar + Soroban permite costos mínimos y velocidad óptima, críticos para adopción masiva en museos y comunidades artísticas de Latinoamérica.
