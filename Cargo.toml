@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = [
+    "contracts/museum-registry",
+    "contracts/cultural-nft", 
+    "contracts/marketplace",
+    "contracts/socialfi"
+]
+
+[profile.release]
+overflow-checks = true
+debug = 1
